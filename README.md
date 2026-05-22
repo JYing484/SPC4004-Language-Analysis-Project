@@ -69,14 +69,6 @@ bad preposition stranding, or passivizing an intransitive verb).
 
 ## Results
 
-| Category | Result |
-|---|---|
-| Standard Passives | ✅ Correct |
-| Phrasal Verbs & Word Order | ✅ Correct |
-| Prepositional Passives | ✅ Correct |
-| Argument Structure & Valency | ✅ Correct |
-| Clausal Extraposition | ❌ 1 False Positive |
-
 **Overall accuracy: 96.88% (31/32)**
 
 The single error involved the sentence *"It was believed to be illegal by them to do that"* — a long-distance infinitival extraposition that violates a crossing constraint. The model predicted it as acceptable, likely due to surface-level fluency masking the structural violation.
